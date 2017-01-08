@@ -1,4 +1,4 @@
-# tanking-new
+# nba-tank
 
 > A Vue.js project
 
